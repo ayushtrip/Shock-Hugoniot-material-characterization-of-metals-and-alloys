@@ -1,8 +1,9 @@
 # Shock-Hugoniot-material-characterization-of-metals-and-alloys
 Charactrestics described by Hugoniot relation: Equation of state, Phase transition, Material strength (Shock compressibility) under extreme conditions Passing of a shock wave
+
 Refer to the presentation PDF for all the plots of Aluminium and Tungsten Heavy Alloy
 
-Large-scale Atomic/Molecular Massively Parallel Simulato(LAMMPS) code was developed to simulate impact loading of materials to obtain shock hugoniot Equation of state for the material
+Large-scale Atomic/Molecular Massively Parallel Simulato(LAMMPS) code was developed to simulate impact loading of materials to obtain shock hugoniot Equation of state.
 
 
 # proved the reference research paper incorrect
